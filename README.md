@@ -10,7 +10,7 @@
 
 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **Nonviolent Communication** by _Marshall Rosenberg_ in the genre of personal development and **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness** by _Eric Jorgenson_ in the genre of financial literacy. I am currently reading **Rich Dad Poor Dad** by _Robert T. Kiyosaki_
 
-💻 This repository consists of the projects that I have done outside of uni and the languages I have used so far is ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+💻 This repository consists of the projects that I have done outside of uni.
 I am still at the early stages of building my porfolio, therefore, most of these projects are still at a beginner/intermediate level, but I will slowly build up the difficulty level and show off some more complex projects.
 
 🎖️ Notable Projects
