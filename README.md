@@ -6,12 +6,18 @@
 
 👨‍💻 As a highly motivated and skilled university student with a strong interest in data science, I have a background in engineering and am proficient in programming languages such as Python, R, and C++. I am dedicated to using my technical skills to drive innovation and make a positive impact on the world. I have experience in data analysis, problem-solving, and communicating findings through presentations and reports. Eager to continue learning and growing as a data scientist, I am currently seeking any internship opportunities in New Zealand to develop and ultilize my skills to solve complex problems and drive business success.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. Most of my hobbies are sports-related such as **Volleyball**, **Basketball** and a little bit of **Muay Thai**
-
+🏀 Outside the world of tech too, I enjoy pushing myself to develop new skills. Most of my hobbies are sports-related such as **Volleyball**, **Basketball** and a little bit of **Muay Thai**
 
 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **Nonviolent Communication** by _Marshall Rosenberg_ in the genre of personal development and **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness** by _Eric Jorgenson_ in the genre of financial literacy. I am currently reading **Rich Dad Poor Dad** by _Robert T. Kiyosaki_
 
-💻 This repository consists of the projects that I have done outside of uni. 
+💻 This repository consists of the projects that I have done outside of uni and the languages I have used so far is ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+I am still at the early stages of building my porfolio, therefore, most of these projects are still at a beginner/intermediate level, but I will slowly build up the difficulty level and show off some more complex projects.
+
+🎖️ Notable Projects
+
+- Password Manager
+- Flash Card 
+- Pomodoro Timer
 
 ## 🔗 Links
 
